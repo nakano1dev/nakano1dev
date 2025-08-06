@@ -1,5 +1,4 @@
-<h1 align="center">Seja bem-vindo 👋</h1>
-
+<h1 align="center">Seja bem-vindo ao meu perfil! 👋</h1>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakano1dev&show_icons=true&theme=radical" />
@@ -34,17 +33,9 @@
 ### 📫 Entre em Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-nakano1.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nakano1.dev@gmail.com)](mailto:nakano1.dev@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil/)]([[https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/rodolfoariel/)](https://www.linkedin.com/in/rodolfoariel/))
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfoariel/)](https://www.linkedin.com/in/rodolfoariel/)
 
 ---
-
-### 🎮 Atividades Recentes
-
-![Pac-Man Contribution](https://raw.githubusercontent.com/nakano1dev/nakano1dev/output/pacman-contribution-graph-dark.svg)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4D0C83&section=footer" />
 </p>
-
-
-
