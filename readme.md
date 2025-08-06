@@ -1,8 +1,5 @@
 <h1 align="center">Seja bem-vindo 👋</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4D0C83&section=footer" />
-</p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakano1dev&show_icons=true&theme=radical" />
@@ -44,3 +41,9 @@
 ### 🎮 Atividades Recentes
 
 ![Pac-Man Contribution](https://raw.githubusercontent.com/nakano1dev/nakano1dev/output/pacman-contribution-graph-dark.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4D0C83&section=footer" />
+</p>
+
+
