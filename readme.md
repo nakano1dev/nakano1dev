@@ -1,8 +1,8 @@
 <h1 align="center">Seja bem-vindo👋</h1>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakano1dev&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakano1dev&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suun98&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suun98&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -39,4 +39,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4D0C83&section=footer" />
 </p>
+
 
