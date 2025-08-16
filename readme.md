@@ -32,12 +32,13 @@
 
 ### 📫 Entre em Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-nakano1.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nakano1.dev@gmail.com)](mailto:nakano1.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-test@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nakano1.dev@gmail.com)](mailto:nakano1.dev@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfoariel/)](https://www.linkedin.com/in/rodolfoariel/)
 
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4D0C83&section=footer" />
 </p>
+
 
 
